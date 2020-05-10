@@ -1,10 +1,10 @@
 # 使用说明
 [在线演示](http://47.93.213.126/login?redirect=/index)  
 ## 登录界面指引
-![login](./.vuepress/public/guide-login.png)
+![login](./.vuepress/public/page0-1.png)
 > 权限：**管理员**；账号：admin；密码：admin123  
 #### 登录后首页如下图：
-![index](./.vuepress/public/page0.png)
+![index](./.vuepress/public/page0-2.png)
 ## 系统管理界面指引
 系统管理界面主要有：**用户管理**，**部门管理**，**权限管理与日志**。
 #### 用户管理

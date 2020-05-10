@@ -1,7 +1,7 @@
 module.exports = {
   title: '动迁系统帮助',
   description: '为动迁系统的使用提供支持',
-  base: '/helper/',// 设置站点根路径
+  base: '/rshelper/',// 设置站点根npm run docs:dev路径
   head: [
     ['link', {
       rel: 'icon',
